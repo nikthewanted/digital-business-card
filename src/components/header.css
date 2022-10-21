@@ -1,0 +1,37 @@
+
+.profile { 
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    background-color: lightslategray;
+}
+
+.profile-name {
+    color: #2B283A;
+    
+    font-weight: 800;
+    font-size: 35px;
+}
+.profile-job {
+    color: #F3BF99;
+    font-weight: 500;
+    font-weight: 30px;    
+    margin-bottom: 0;
+}
+.profile-website {
+    margin: 0;
+    padding: 0;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+}
+.profile-email {
+    background-color: #ffffff;
+    color: black;
+    margin:20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px 100px 10px 100px;
+    font-size: 25px;
+    font-weight: 400;
+}

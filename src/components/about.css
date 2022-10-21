@@ -1,0 +1,23 @@
+.about {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    background-color: lightslategray;
+    height: 200px;
+    justify-content: center;
+    text-align: center;
+    color: #ffffff;
+}
+.about-title{
+    margin: 0;
+    padding-top: 50px;
+    padding-left: 160px;
+    text-align: start;
+    font-size: 25px;
+}
+.about-info{
+    padding-left: 150px;
+    padding-right: 150px;
+    font-size: 16px;
+    text-align: start;
+}
